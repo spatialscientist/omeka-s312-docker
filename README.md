@@ -18,6 +18,8 @@ This will deploy three Docker containers:
 - Container 2: phpmyadmin (connected to container 1)
 - Container 3: omeka-s312 (connected to container 1)
 
+Some useful themes and modules for Omeka S version 3.1.2 are also added. Additional modules could be installed using the EasyInstall module.
+
 With your browser, go to:
 
 - Omeka-S312: http://hostname
